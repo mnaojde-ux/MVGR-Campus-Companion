@@ -1,0 +1,6 @@
+{
+  "name": "MVGR Campus Companion",
+  "description": "Official campus navigation and day-to-day academic companion for students of MVGR College of Engineering, Vizianagaram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
